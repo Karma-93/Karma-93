@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
+ <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://juejin.cn/user/1873223545526526"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+  </div>
 
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
